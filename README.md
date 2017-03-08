@@ -1,7 +1,7 @@
 # Build-Your-Neural-Network
 **Jianguo Zhang, February 5, 2017**
 
-In this project, We build a neural network to predict daily bike rental ridership on [UCI Bike Shaing Dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
+In this project, We build a neural network to predict daily bike rental ridership on [UCI Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 
 The program written by [jupyter notebook](http://jupyter.org/) 
 

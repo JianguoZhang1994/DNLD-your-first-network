@@ -3,5 +3,5 @@ In this project, We build a neural network to predict daily bike rental ridershi
 
 The program written by [jupyter notebook](http://jupyter.org/) 
 
-run `DNLD1-neural-network.ipynb` or check `DNLD1-neural-network_online_results.html` for online results
+Run `DNLD1-neural-network.ipynb` or check `DNLD1-neural-network_online_results.html` for online results
 ![image](https://github.com/JianguoZhang1994/DNLD1-Neural-Network/blob/master/result.png)
